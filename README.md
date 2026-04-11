@@ -1,11 +1,11 @@
-
-# rivera-post2-u4
+# **Laboratorio 1 de la Unidad 4 — Arquitectura de Computadores**
+## Unidad 4 — Lenguaje Ensamblador| Ingeniería de Sistemas 
+### Asignatura — Arquitectura de Computadores
+**Estudiante:** Andrea Valentina Rivera Fernandez  
+**Codigo Estudiante:** 1152444  
+**Repositorio:** rivera-post2-u4
 
 ## Descripción
-
-Laboratorio 2 de la Unidad 4 — Arquitectura de Computadores  
-**Ingeniería de Sistemas — Universidad Francisco de Paula Santander — 2026**
-
 Este laboratorio implementa un programa en lenguaje ensamblador NASM que define y utiliza macros con parámetros y etiquetas locales (`%%`), aplica estructuras de control de flujo (bucles con `LOOP` y condicionales con `CMP/Jcc`) y combina estos mecanismos en un programa integrador funcional verificable en DOSBox.
 
 ---
